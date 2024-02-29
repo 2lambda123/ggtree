@@ -1,0 +1,286 @@
+repo_name: 2lambda123/ggtree
+report_id: 0f869754106ae1ff87d9945b01460023
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T19:15:35+00:00'
+requested_by: GuangchuangYu
+provider: github
+branch: devel
+detected_tools_count: 27
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/2lambda123/ggtree/blob/devel/DESCRIPTION
+  detection_source: DESCRIPTION
+- name: Markdown
+  description: Text-to-HTML conversion tool/syntax for web writers, by John Gruber
+  website_url: http://daringfireball.net/projects/markdown/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1147/markdown.png
+  detection_source_url: https://github.com/2lambda123/ggtree/blob/devel/DESCRIPTION
+  detection_source: DESCRIPTION
+- name: R Language
+  description: A language and environment for statistical computing and graphics
+  website_url: http://www.r-project.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1213/r-logo.png
+  detection_source_url: https://github.com/2lambda123/ggtree
+  detection_source: Repo Metadata
+- name: ggplot2
+  description: A data visualization package for the statistical programming language
+    R
+  website_url: https://ggplot2.tidyverse.org/
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Charting Libraries
+  image_url: https://img.stackshare.io/service/6560/New_Project__90_.png
+  detection_source_url: https://github.com/2lambda123/ggtree/blob/devel/DESCRIPTION
+  detection_source: DESCRIPTION
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/2lambda123/ggtree
+  detection_source: Repo Metadata
+- name: Travis CI
+  description: A hosted continuous integration service for open source and private
+    projects
+  website_url: http://travis-ci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/2lambda123/ggtree/blob/devel/.travis.yml
+  detection_source: ".travis.yml"
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/2lambda123/ggtree/blob/devel/DESCRIPTION
+  detection_source: DESCRIPTION
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/2lambda123/ggtree
+  detection_source: Repo Metadata
+- name: ape
+  description: Analyses of Phylogenetics and Evolution
+  package_url: https://cran.r-project.org/ape
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/2lambda123/ggtree/blob/devel/DESCRIPTION
+  detection_source: DESCRIPTION
+- name: cli
+  description: Helpers for Developing Command Line Interfaces
+  package_url: https://cran.r-project.org/cli
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/2lambda123/ggtree/blob/devel/DESCRIPTION
+  detection_source: DESCRIPTION
+- name: dplyr
+  description: A Grammar of Data Manipulation
+  package_url: https://cran.r-project.org/dplyr
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/2lambda123/ggtree/blob/devel/DESCRIPTION
+  detection_source: DESCRIPTION
+- name: emojifont
+  description: Emoji and Font Awesome in Graphics
+  package_url: https://cran.r-project.org/emojifont
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/2lambda123/ggtree/blob/devel/DESCRIPTION
+  detection_source: DESCRIPTION
+- name: ggimage
+  description: Use Image in 'ggplot2'
+  package_url: https://cran.r-project.org/ggimage
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/2lambda123/ggtree/blob/devel/DESCRIPTION
+  detection_source: DESCRIPTION
+- name: ggplot2
+  description: Create Elegant Data Visualisations Using the Grammar of Graphics
+  package_url: https://cran.r-project.org/ggplot2
+  version: 3.3.6
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/2lambda123/ggtree/blob/devel/DESCRIPTION
+  detection_source: DESCRIPTION
+- name: glue
+  description: Interpreted String Literals
+  package_url: https://cran.r-project.org/glue
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/2lambda123/ggtree/blob/devel/DESCRIPTION
+  detection_source: DESCRIPTION
+- name: knitr
+  description: A General-Purpose Package for Dynamic Report Generation in R
+  package_url: https://cran.r-project.org/knitr
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/2lambda123/ggtree/blob/devel/DESCRIPTION
+  detection_source: DESCRIPTION
+- name: magrittr
+  description: A Forward-Pipe Operator for R
+  package_url: https://cran.r-project.org/magrittr
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/2lambda123/ggtree/blob/devel/DESCRIPTION
+  detection_source: DESCRIPTION
+- name: prettydoc
+  description: Creating Pretty Documents from R Markdown
+  package_url: https://cran.r-project.org/prettydoc
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/2lambda123/ggtree/blob/devel/DESCRIPTION
+  detection_source: DESCRIPTION
+- name: purrr
+  description: Functional Programming Tools
+  package_url: https://cran.r-project.org/purrr
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/2lambda123/ggtree/blob/devel/DESCRIPTION
+  detection_source: DESCRIPTION
+- name: rlang
+  description: Functions for Base Types and Core R and 'Tidyverse' Features
+  package_url: https://cran.r-project.org/rlang
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/2lambda123/ggtree/blob/devel/DESCRIPTION
+  detection_source: DESCRIPTION
+- name: rmarkdown
+  description: Dynamic Documents for R
+  package_url: https://cran.r-project.org/rmarkdown
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/2lambda123/ggtree/blob/devel/DESCRIPTION
+  detection_source: DESCRIPTION
+- name: scales
+  description: Scale Functions for Visualization
+  package_url: https://cran.r-project.org/scales
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/2lambda123/ggtree/blob/devel/DESCRIPTION
+  detection_source: DESCRIPTION
+- name: shadowtext
+  description: Shadow Text Grob and Layer
+  package_url: https://cran.r-project.org/shadowtext
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/2lambda123/ggtree/blob/devel/DESCRIPTION
+  detection_source: DESCRIPTION
+- name: testthat
+  description: Unit Testing for R
+  package_url: https://cran.r-project.org/testthat
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/2lambda123/ggtree/blob/devel/DESCRIPTION
+  detection_source: DESCRIPTION
+- name: tibble
+  description: Simple Data Frames
+  package_url: https://cran.r-project.org/tibble
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/2lambda123/ggtree/blob/devel/DESCRIPTION
+  detection_source: DESCRIPTION
+- name: tidyr
+  description: Tidy Messy Data
+  package_url: https://cran.r-project.org/tidyr
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/2lambda123/ggtree/blob/devel/DESCRIPTION
+  detection_source: DESCRIPTION
+- name: tidytree
+  description: A Tidy Tool for Phylogenetic Tree Data Manipulation
+  package_url: https://cran.r-project.org/tidytree
+  version: 0.4.5
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/cran/image.png
+  detection_source_url: https://github.com/2lambda123/ggtree/blob/devel/DESCRIPTION
+  detection_source: DESCRIPTION
